@@ -540,6 +540,7 @@ ORDER BY total_revenue DESC;
 SQL Data Analyst |Business Analysis |Retail Domain
 - **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/md-atif-ibna-latif)
 ---
+- **Watch the full walkthrough on Youtube:[link](https://youtu.be/oYYFdg1HSU0?si=7sz8DTrHVFm8hay3)
 
 ## 📄 License
 
